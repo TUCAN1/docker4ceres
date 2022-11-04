@@ -12,7 +12,7 @@ We developed a new implementation of CERES (Collection of Elemental Routines for
  
   Dr. Germán Chaparro-Molano ([saint-germain](https://github.com/saint-germain)), Computational Physics and Astrophysics Group (FACom) Institute of Physics, University of Antioquia Medellin, Colombia.\
   Natalia Alvarez-Baena ([nataliaalvarezb](https://github.com/nataliaalvarezb)), Institute of Physics, University of Antioquia Medellin, Colombia.\
-  Dr. Ricardo Carrera, INAF-Osservatorio Astronomico di Padova, vicolo dell'Osservatorio 5, 35122 Padova, Italy.
+  Dr. Ricardo Carrera ([carrerajimenez](https://github.com/carrerajimenez)), INAF-Osservatorio Astronomico di Padova, vicolo dell'Osservatorio 5, 35122 Padova, Italy.
 
 
 # About the code
