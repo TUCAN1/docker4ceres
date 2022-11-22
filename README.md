@@ -60,9 +60,9 @@ python install.py
 ```
 9. Run the pipeline following the instructions on the README of the [original](https://github.com/rabrahm/ceres) CERES version or the [modified](https://github.com/TUCAN1/ceresUdeA) version.
 
-Installation notes:
+# Installation notes:
 
-- [Installing Docker on Ubuntu] (https://www.simplilearn.com/tutorials/docker-tutorial/how-to-install-docker-on-ubuntu)
+- [Installing Docker on Ubuntu](https://www.simplilearn.com/tutorials/docker-tutorial/how-to-install-docker-on-ubuntu)
 - To use your own fits files: Make a /fits/ folder within the /ceres/ folder and upload your .fits files here using the JupyterLab environment.
 - To use the same container again:
 ```
