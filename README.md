@@ -5,12 +5,10 @@ This repository hosts the DockerFiles and instructions required to run CERES on 
 
 
 # Authors:
-
-### This version
  
-  Dr. Germán Chaparro-Molano ([saint-germain](https://github.com/saint-germain)), Computational Physics and Astrophysics Group (FACom) Institute of Physics, University of Antioquia Medellin, Colombia.\
-  Natalia Alvarez-Baena ([nataliaalvarezb](https://github.com/nataliaalvarezb)), Institute of Physics, University of Antioquia Medellin, Colombia.\
-  Dr. Ricardo Carrera ([carrerajimenez](https://github.com/carrerajimenez)), INAF-Osservatorio Astronomico di Padova, vicolo dell'Osservatorio 5, 35122 Padova, Italy.
+-  Dr. Germán Chaparro-Molano ([saint-germain](https://github.com/saint-germain)), Computational Physics and Astrophysics Group (FACom) Institute of Physics, University of Antioquia Medellin, Colombia.\
+-  Natalia Alvarez-Baena ([nataliaalvarezb](https://github.com/nataliaalvarezb)), Institute of Physics, University of Antioquia Medellin, Colombia.\
+-  Dr. Ricardo Carrera ([carrerajimenez](https://github.com/carrerajimenez)), INAF-Osservatorio Astronomico di Padova, vicolo dell'Osservatorio 5, 35122 Padova, Italy.
 
 
 # About the code
@@ -55,7 +53,7 @@ http://127.0.0.1:8888/
 /bin/bash
 cd ceres
 ```
-8. Install CERES with
+8. Install CERES with (takes about 15-30 min)
 
 ```
 python install.py
